@@ -1,0 +1,423 @@
+2021-05-26 18:04:23 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f923de4da60; archive(resolved)='<IDEArchive: 0x7f92368ace90>', distributionTask(resolved)='2', distributionDestination(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f92368aa780>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7f923dfc4190; teamID='9RVFQ5D93P', teamName='Naima Akther Naima', teamType='Individual', username='fokhrulislam97@hotmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f923de4da60; archive = '<IDEArchive: 0x7f92368ace90>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f92368aa780>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f923dfc4190; teamID='9RVFQ5D93P', teamName='Naima Akther Naima', teamType='Individual', username='fokhrulislam97@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7f9246bd9950; archive = '<IDEArchive: 0x7f92368ace90>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f92368aa780>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f923dfc4190; teamID='9RVFQ5D93P', teamName='Naima Akther Naima', teamType='Individual', username='fokhrulislam97@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f923ea524b0; archive = '<IDEArchive: 0x7f92368ace90>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f92368aa780>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f923dfc4190; teamID='9RVFQ5D93P', teamName='Naima Akther Naima', teamType='Individual', username='fokhrulislam97@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9233da69e0; archive = '<IDEArchive: 0x7f92368ace90>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f92368aa780>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f923dfc4190; teamID='9RVFQ5D93P', teamName='Naima Akther Naima', teamType='Individual', username='fokhrulislam97@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9233da67f0; archive = '<IDEArchive: 0x7f92368ace90>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f92368aa780>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f923dfc4190; teamID='9RVFQ5D93P', teamName='Naima Akther Naima', teamType='Individual', username='fokhrulislam97@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9236e1fbd0; archive = '<IDEArchive: 0x7f92368ace90>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f92368aa780>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f923dfc4190; teamID='9RVFQ5D93P', teamName='Naima Akther Naima', teamType='Individual', username='fokhrulislam97@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9239728650; archive = '<IDEArchive: 0x7f92368ace90>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f92368aa780>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f923dfc4190; teamID='9RVFQ5D93P', teamName='Naima Akther Naima', teamType='Individual', username='fokhrulislam97@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9239793620; archive = '<IDEArchive: 0x7f92368ace90>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f92368aa780>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f923dfc4190; teamID='9RVFQ5D93P', teamName='Naima Akther Naima', teamType='Individual', username='fokhrulislam97@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f9235ee73f0; archive = '<IDEArchive: 0x7f92368ace90>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f92368aa780>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f923dfc4190; teamID='9RVFQ5D93P', teamName='Naima Akther Naima', teamType='Individual', username='fokhrulislam97@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f923f336250; archive = '<IDEArchive: 0x7f92368ace90>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f92368aa780>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f923dfc4190; teamID='9RVFQ5D93P', teamName='Naima Akther Naima', teamType='Individual', username='fokhrulislam97@hotmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f923f3391f0; archive = '<IDEArchive: 0x7f92368ace90>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f92368aa780>', team='(null)'>
+	<IDEDistributionContext: 0x7f923d484860; archive = '<IDEArchive: 0x7f92368ace90>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f92368aa780>', team='(null)'>
+	<IDEDistributionContext: 0x7f923d4bc100; archive = '<IDEArchive: 0x7f92368ace90>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7f923de4da60>
+2021-05-26 18:04:23 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-05-26 18:04:23 +0000  Processing step: IDEDistributionCopyItemStep
+2021-05-26 18:04:23 +0000  Running /usr/bin/ditto '-V' '/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app'
+2021-05-26 18:04:23 +0000  >>> Copying /Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app 
+2021-05-26 18:04:23 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-05-26 18:04:23 +0000  9285 bytes for ./_CodeSignature/CodeResources
+2021-05-26 18:04:23 +0000  copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/_CodeSignature/CodeResources ... 
+2021-05-26 18:04:23 +0000  2040 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/_CodeSignature/CodeResources
+2021-05-26 18:04:23 +0000  copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension ... 
+2021-05-26 18:04:23 +0000  120832 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension
+2021-05-26 18:04:23 +0000  copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/embedded.mobileprovision ... 
+2021-05-26 18:04:23 +0000  7509 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/embedded.mobileprovision
+2021-05-26 18:04:23 +0000  copying file ./PlugIns/OneSignalNotificationServiceExtension.appex/Info.plist ... 
+2021-05-26 18:04:23 +0000  983 bytes for ./PlugIns/OneSignalNotificationServiceExtension.appex/Info.plist
+2021-05-26 18:04:23 +0000  copying file ./PlugIns/OneSignal.framework/_CodeSignature/CodeResources ... 
+2021-05-26 18:04:23 +0000  2408 bytes for ./PlugIns/OneSignal.framework/_CodeSignature/CodeResources
+2021-05-26 18:04:23 +0000  copying file ./PlugIns/OneSignal.framework/OneSignal ... 
+2021-05-26 18:04:23 +0000  14187904 bytes for ./PlugIns/OneSignal.framework/OneSignal
+2021-05-26 18:04:23 +0000  copying file ./PlugIns/OneSignal.framework/Headers/OneSignal.h ... 
+2021-05-26 18:04:23 +0000  24994 bytes for ./PlugIns/OneSignal.framework/Headers/OneSignal.h
+2021-05-26 18:04:23 +0000  copying file ./PlugIns/OneSignal.framework/Modules/module.modulemap ... 
+2021-05-26 18:04:23 +0000  99 bytes for ./PlugIns/OneSignal.framework/Modules/module.modulemap
+2021-05-26 18:04:23 +0000  copying file ./PlugIns/OneSignal.framework/Info.plist ... 
+2021-05-26 18:04:23 +0000  716 bytes for ./PlugIns/OneSignal.framework/Info.plist
+2021-05-26 18:04:23 +0000  copying file ./AppIcon60x60@2x.png ... 
+2021-05-26 18:04:23 +0000  5705 bytes for ./AppIcon60x60@2x.png
+2021-05-26 18:04:23 +0000  copying file ./GoogleService-Info.plist ... 
+2021-05-26 18:04:23 +0000  824 bytes for ./GoogleService-Info.plist
+copying file ./sf_pro.ttf ... 
+2021-05-26 18:04:23 +0000  413924 bytes for ./sf_pro.ttf
+copying file ./Afiq Souq ... 
+2021-05-26 18:04:24 +0000  61391968 bytes for ./Afiq Souq
+2021-05-26 18:04:24 +0000  copying file ./Main.storyboardc/gV1-vg-IeE-view-8fu-OT-KeM.nib ... 
+2021-05-26 18:04:24 +0000  2210 bytes for ./Main.storyboardc/gV1-vg-IeE-view-8fu-OT-KeM.nib
+2021-05-26 18:04:24 +0000  copying file ./Main.storyboardc/MasterViewController.nib ... 
+2021-05-26 18:04:24 +0000  1062 bytes for ./Main.storyboardc/MasterViewController.nib
+2021-05-26 18:04:24 +0000  copying file ./Main.storyboardc/Info.plist ... 
+2021-05-26 18:04:24 +0000  165 bytes for ./Main.storyboardc/Info.plist
+2021-05-26 18:04:24 +0000  copying file ./Assets.car ... 
+2021-05-26 18:04:24 +0000  5360464 bytes for ./Assets.car
+2021-05-26 18:04:24 +0000  copying file ./Frameworks/OneSignal.framework/_CodeSignature/CodeResources ... 
+2021-05-26 18:04:24 +0000  2408 bytes for ./Frameworks/OneSignal.framework/_CodeSignature/CodeResources
+2021-05-26 18:04:24 +0000  copying file ./Frameworks/OneSignal.framework/OneSignal ... 
+2021-05-26 18:04:24 +0000  14187904 bytes for ./Frameworks/OneSignal.framework/OneSignal
+2021-05-26 18:04:24 +0000  copying file ./Frameworks/OneSignal.framework/Headers/OneSignal.h ... 
+2021-05-26 18:04:24 +0000  24994 bytes for ./Frameworks/OneSignal.framework/Headers/OneSignal.h
+2021-05-26 18:04:24 +0000  copying file ./Frameworks/OneSignal.framework/Modules/module.modulemap ... 
+2021-05-26 18:04:24 +0000  99 bytes for ./Frameworks/OneSignal.framework/Modules/module.modulemap
+2021-05-26 18:04:24 +0000  copying file ./Frameworks/OneSignal.framework/Info.plist ... 
+2021-05-26 18:04:24 +0000  716 bytes for ./Frameworks/OneSignal.framework/Info.plist
+2021-05-26 18:04:24 +0000  copying file ./Frameworks/SSLCommerzSDK.framework/_CodeSignature/CodeResources ... 
+2021-05-26 18:04:24 +0000  2084 bytes for ./Frameworks/SSLCommerzSDK.framework/_CodeSignature/CodeResources
+2021-05-26 18:04:24 +0000  copying file ./Frameworks/SSLCommerzSDK.framework/SSLCommerzSDK ... 
+2021-05-26 18:04:24 +0000  26444080 bytes for ./Frameworks/SSLCommerzSDK.framework/SSLCommerzSDK
+copying file ./Frameworks/SSLCommerzSDK.framework/Assets.car ... 
+2021-05-26 18:04:24 +0000  2953864 bytes for ./Frameworks/SSLCommerzSDK.framework/Assets.car
+copying file ./Frameworks/SSLCommerzSDK.framework/Info.plist ... 
+2021-05-26 18:04:24 +0000  718 bytes for ./Frameworks/SSLCommerzSDK.framework/Info.plist
+2021-05-26 18:04:24 +0000  copying file ./embedded.mobileprovision ... 
+2021-05-26 18:04:24 +0000  7509 bytes for ./embedded.mobileprovision
+2021-05-26 18:04:24 +0000  copying file ./Info.plist ... 
+2021-05-26 18:04:24 +0000  1706 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2021-05-26 18:04:24 +0000  8 bytes for ./PkgInfo
+copying file ./lato.ttf ... 
+2021-05-26 18:04:24 +0000  73316 bytes for ./lato.ttf
+2021-05-26 18:04:24 +0000  /usr/bin/ditto exited with 0
+2021-05-26 18:04:24 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-05-26 18:04:24 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f923dfe6b40; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x7f9237d904a0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923df372e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f923397d000; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f926a1d4160>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x7f92496ba800:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'>
+2021-05-26 18:04:24 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f923e736160; bundleID='com.sslwireless.SSLCommerz', path='<DVTFilePath:0x7f9237d76410:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f92363b9920; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f923397d000; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9269b76aa0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.sslwireless.SSLCommerz', executablePath='<DVTFilePath:0x7f924963e9d0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/SSLCommerzSDK'>', hardenedRuntime='0'>'>
+2021-05-26 18:04:24 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f9233d9a340; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x7f9237d6def0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923df42610; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9243251cd0; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f923eff02a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x7f92369b0e70:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'>
+2021-05-26 18:04:24 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-05-26 18:04:24 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-26 18:04:24 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-26 18:04:24 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-26 18:04:24 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-26 18:04:24 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-05-26 18:04:24 +0000  Processing step: IDEDistributionItemRemovalStep
+2021-05-26 18:04:24 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-05-26 18:04:24 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-05-26 18:04:24 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-05-26 18:04:24 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-05-26 18:04:24 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-05-26 18:04:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Frameworks/OneSignal.framework/OneSignal' '-l' '-o' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Frameworks/OneSignal.framework/OneSignal'
+2021-05-26 18:04:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-26 18:04:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/SSLCommerzSDK' '-l' '-o' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/SSLCommerzSDK'
+2021-05-26 18:04:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-26 18:04:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/PlugIns/OneSignal.framework/OneSignal' '-l' '-o' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/PlugIns/OneSignal.framework/OneSignal'
+2021-05-26 18:04:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-26 18:04:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension' '-l' '-o' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension'
+2021-05-26 18:04:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-26 18:04:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Afiq Souq' '-l' '-o' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Afiq Souq'
+2021-05-26 18:04:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-05-26 18:04:24 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-05-26 18:04:24 +0000  The archive did not contain /Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/BCSymbolMaps/16F6F17D-5E75-3FE5-8193-24855298EB68.bcsymbolmap as expected.
+2021-05-26 18:04:24 +0000  The archive did not contain /Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/BCSymbolMaps/DF618388-86CD-38C1-88E5-82B6770B369C.bcsymbolmap as expected.
+2021-05-26 18:04:24 +0000  The archive did not contain /Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/BCSymbolMaps/16F6F17D-5E75-3FE5-8193-24855298EB68.bcsymbolmap as expected.
+2021-05-26 18:04:24 +0000  Running /usr/bin/ditto '-V' '/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/BCSymbolMaps/836BD8CA-DDA2-3ECD-B850-D6190DD4B7CE.bcsymbolmap' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/BCSymbolMaps/836BD8CA-DDA2-3ECD-B850-D6190DD4B7CE.bcsymbolmap'
+2021-05-26 18:04:24 +0000  >>> Copying /Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/BCSymbolMaps/836BD8CA-DDA2-3ECD-B850-D6190DD4B7CE.bcsymbolmap 
+2021-05-26 18:04:24 +0000  copying file ./836BD8CA-DDA2-3ECD-B850-D6190DD4B7CE.bcsymbolmap ... 
+2021-05-26 18:04:24 +0000  4395 bytes for ./836BD8CA-DDA2-3ECD-B850-D6190DD4B7CE.bcsymbolmap
+2021-05-26 18:04:24 +0000  /usr/bin/ditto exited with 0
+2021-05-26 18:04:24 +0000  Running /usr/bin/ditto '-V' '/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/BCSymbolMaps/29A19618-2A92-3B3E-9A69-7D6FF39C6321.bcsymbolmap' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/BCSymbolMaps/29A19618-2A92-3B3E-9A69-7D6FF39C6321.bcsymbolmap'
+2021-05-26 18:04:24 +0000  >>> Copying /Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/BCSymbolMaps/29A19618-2A92-3B3E-9A69-7D6FF39C6321.bcsymbolmap 
+2021-05-26 18:04:24 +0000  copying file ./29A19618-2A92-3B3E-9A69-7D6FF39C6321.bcsymbolmap ... 
+2021-05-26 18:04:24 +0000  7035927 bytes for ./29A19618-2A92-3B3E-9A69-7D6FF39C6321.bcsymbolmap
+2021-05-26 18:04:24 +0000  /usr/bin/ditto exited with 0
+2021-05-26 18:04:24 +0000  Processing step: IDEDistributionSymbolsStep
+2021-05-26 18:04:24 +0000  Excluding symbols for OneSignal.framework
+2021-05-26 18:04:24 +0000  Excluding symbols for SSLCommerzSDK.framework
+2021-05-26 18:04:24 +0000  Excluding symbols for OneSignal.framework
+2021-05-26 18:04:24 +0000  Excluding symbols for OneSignalNotificationServiceExtension.appex
+2021-05-26 18:04:24 +0000  Excluding symbols for Afiq Souq.app
+2021-05-26 18:04:24 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2021-05-26 18:04:24 +0000  Processing step: IDEDistributionAppThinningStep
+2021-05-26 18:04:24 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-05-26 18:04:24 +0000  Processing step: IDEDistributionArchThinningStep
+2021-05-26 18:04:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Frameworks/OneSignal.framework/OneSignal' '-verify_arch' 'arm64e'
+2021-05-26 18:04:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-26 18:04:24 +0000  Skipping architecture thinning for item "OneSignal" because arch "arm64e" wasn't found
+2021-05-26 18:04:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/SSLCommerzSDK' '-verify_arch' 'arm64e'
+2021-05-26 18:04:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-26 18:04:24 +0000  Skipping architecture thinning for item "SSLCommerzSDK" because arch "arm64e" wasn't found
+2021-05-26 18:04:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/PlugIns/OneSignal.framework/OneSignal' '-verify_arch' 'arm64e'
+2021-05-26 18:04:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-26 18:04:24 +0000  Skipping architecture thinning for item "OneSignal" because arch "arm64e" wasn't found
+2021-05-26 18:04:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension' '-verify_arch' 'arm64e'
+2021-05-26 18:04:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-26 18:04:24 +0000  Skipping architecture thinning for item "OneSignalNotificationServiceExtension" because arch "arm64e" wasn't found
+2021-05-26 18:04:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Afiq Souq' '-verify_arch' 'arm64e'
+2021-05-26 18:04:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-05-26 18:04:24 +0000  Skipping architecture thinning for item "Afiq Souq" because arch "arm64e" wasn't found
+2021-05-26 18:04:24 +0000  Processing step: IDEDistributionODRStep
+2021-05-26 18:04:24 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-05-26 18:04:24 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f923dfe6b40; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x7f9237d904a0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923df372e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f92371b6ef0; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f923eff2a00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x7f92496ba800:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'>
+2021-05-26 18:04:24 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f923e736160; bundleID='com.sslwireless.SSLCommerz', path='<DVTFilePath:0x7f9237d76410:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f92363b9920; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f92371b6ef0; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f923eff02a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.sslwireless.SSLCommerz', executablePath='<DVTFilePath:0x7f924963e9d0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/SSLCommerzSDK'>', hardenedRuntime='0'>'>
+2021-05-26 18:04:24 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f9233d9a340; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x7f9237d6def0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923df42610; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f923b74eb70; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f923e6a2440>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x7f92369b0e70:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'>
+2021-05-26 18:04:24 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f923dfed0a0; bundleID='co.syntex-error.AfiqSouq', path='<DVTFilePath:0x7f9237d616c0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923dfdaa00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f923d4badd0; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f923ef89740>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='{
+    "application-identifier" = "9RVFQ5D93P.co.syntex-error.AfiqSouq";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9RVFQ5D93P;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "9RVFQ5D93P.co.syntex-error.AfiqSouq"
+    );
+}', teamID='9RVFQ5D93P', identifier='co.syntex-error.AfiqSouq', executablePath='<DVTFilePath:0x7f923ea5ba50:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension'>', hardenedRuntime='0'>'>
+2021-05-26 18:04:24 +0000  Running /usr/bin/xattr '-crs' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app'
+2021-05-26 18:04:25 +0000  /usr/bin/xattr exited with 0
+2021-05-26 18:04:25 +0000  Processing step: IDEDistributionCodesignStep
+2021-05-26 18:04:25 +0000  Entitlements for <IDEDistributionItem: 0x7f923dfe6b40; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x7f9237d904a0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923df372e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f92371b6ef0; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f926583f5d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x7f92496ba800:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'>: {
+}
+2021-05-26 18:04:25 +0000  Entitlements for <IDEDistributionItem: 0x7f923dfe6b40; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x7f9237d904a0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923df372e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f926a2eeb60; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f923df0c180>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x7f92496ba800:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-26 18:04:25 +0000  Writing entitlements for <IDEDistributionItem: 0x7f923dfe6b40; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x7f9237d904a0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923df372e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9237d5f520; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f923dfcc3c0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x7f92496ba800:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'> to: /var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/entitlements~~~7fGIeM
+2021-05-26 18:04:25 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '06CAF12EB2DDE6D621900F48EB80B6CC737D3B63' '--entitlements' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/entitlements~~~7fGIeM' '--preserve-metadata=identifier,flags,runtime' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Frameworks/OneSignal.framework'
+2021-05-26 18:04:25 +0000  /var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Frameworks/OneSignal.framework: signed bundle with Mach-O universal (armv7 armv7s arm64) [com.onesignal.OneSignal-Dynamic]
+2021-05-26 18:04:25 +0000  /usr/bin/codesign exited with 0
+2021-05-26 18:04:25 +0000  Entitlements for <IDEDistributionItem: 0x7f923e736160; bundleID='com.sslwireless.SSLCommerz', path='<DVTFilePath:0x7f9237d76410:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f92363b9920; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9237020a70; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f924c1ea220>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.sslwireless.SSLCommerz', executablePath='<DVTFilePath:0x7f924963e9d0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/SSLCommerzSDK'>', hardenedRuntime='0'>'>: {
+}
+2021-05-26 18:04:25 +0000  Entitlements for <IDEDistributionItem: 0x7f923e736160; bundleID='com.sslwireless.SSLCommerz', path='<DVTFilePath:0x7f9237d76410:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f92363b9920; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9233dfa500; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9246bffb30>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.sslwireless.SSLCommerz', executablePath='<DVTFilePath:0x7f924963e9d0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/SSLCommerzSDK'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-26 18:04:25 +0000  Writing entitlements for <IDEDistributionItem: 0x7f923e736160; bundleID='com.sslwireless.SSLCommerz', path='<DVTFilePath:0x7f9237d76410:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f92363b9920; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f923b74eb70; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f923df0c180>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.sslwireless.SSLCommerz', executablePath='<DVTFilePath:0x7f924963e9d0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/SSLCommerzSDK'>', hardenedRuntime='0'>'> to: /var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/entitlements~~~jxYygC
+2021-05-26 18:04:25 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '06CAF12EB2DDE6D621900F48EB80B6CC737D3B63' '--entitlements' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/entitlements~~~jxYygC' '--preserve-metadata=identifier,flags,runtime' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework'
+2021-05-26 18:04:26 +0000  /var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework: signed bundle with Mach-O universal (armv7 arm64) [com.sslwireless.SSLCommerz]
+2021-05-26 18:04:26 +0000  /usr/bin/codesign exited with 0
+2021-05-26 18:04:26 +0000  Entitlements for <IDEDistributionItem: 0x7f9233d9a340; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x7f9237d6def0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923df42610; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9233dfa500; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9246bb11a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x7f92369b0e70:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'>: {
+}
+2021-05-26 18:04:26 +0000  Entitlements for <IDEDistributionItem: 0x7f9233d9a340; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x7f9237d6def0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923df42610; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9237020a70; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f924c1ea220>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x7f92369b0e70:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'> are: {
+}
+2021-05-26 18:04:26 +0000  Writing entitlements for <IDEDistributionItem: 0x7f9233d9a340; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x7f9237d6def0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923df42610; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9246def1b0; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f923d518d00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='(null)', teamID='9RVFQ5D93P', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x7f92369b0e70:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'> to: /var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/entitlements~~~duej10
+2021-05-26 18:04:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '06CAF12EB2DDE6D621900F48EB80B6CC737D3B63' '--entitlements' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/entitlements~~~duej10' '--preserve-metadata=identifier,flags,runtime' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/PlugIns/OneSignal.framework'
+2021-05-26 18:04:26 +0000  /var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/PlugIns/OneSignal.framework: signed bundle with Mach-O universal (armv7 armv7s arm64) [com.onesignal.OneSignal-Dynamic]
+2021-05-26 18:04:26 +0000  /usr/bin/codesign exited with 0
+2021-05-26 18:04:26 +0000  Entitlements for <IDEDistributionItem: 0x7f923dfed0a0; bundleID='co.syntex-error.AfiqSouq', path='<DVTFilePath:0x7f9237d616c0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923dfdaa00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f92371b6ef0; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f923716f310>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='{
+    "application-identifier" = "9RVFQ5D93P.co.syntex-error.AfiqSouq";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9RVFQ5D93P;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "9RVFQ5D93P.co.syntex-error.AfiqSouq"
+    );
+}', teamID='9RVFQ5D93P', identifier='co.syntex-error.AfiqSouq', executablePath='<DVTFilePath:0x7f923ea5ba50:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "9RVFQ5D93P.co.syntex-error.AfiqSouq";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9RVFQ5D93P;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "9RVFQ5D93P.co.syntex-error.AfiqSouq"
+    );
+}
+2021-05-26 18:04:26 +0000  Entitlements for <IDEDistributionItem: 0x7f923dfed0a0; bundleID='co.syntex-error.AfiqSouq', path='<DVTFilePath:0x7f9237d616c0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923dfdaa00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f923d460000; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9237126ce0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='{
+    "application-identifier" = "9RVFQ5D93P.co.syntex-error.AfiqSouq";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9RVFQ5D93P;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "9RVFQ5D93P.co.syntex-error.AfiqSouq"
+    );
+}', teamID='9RVFQ5D93P', identifier='co.syntex-error.AfiqSouq', executablePath='<DVTFilePath:0x7f923ea5ba50:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "9RVFQ5D93P.co.syntex-error.AfiqSouq";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9RVFQ5D93P;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "9RVFQ5D93P.co.syntex-error.AfiqSouq"
+    );
+}
+2021-05-26 18:04:26 +0000  Writing entitlements for <IDEDistributionItem: 0x7f923dfed0a0; bundleID='co.syntex-error.AfiqSouq', path='<DVTFilePath:0x7f9237d616c0:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f923dfdaa00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9237020a70; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f923d5a4d90>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='{
+    "application-identifier" = "9RVFQ5D93P.co.syntex-error.AfiqSouq";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9RVFQ5D93P;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "9RVFQ5D93P.co.syntex-error.AfiqSouq"
+    );
+}', teamID='9RVFQ5D93P', identifier='co.syntex-error.AfiqSouq', executablePath='<DVTFilePath:0x7f923ea5ba50:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension'>', hardenedRuntime='0'>'> to: /var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/entitlements~~~921QsO
+2021-05-26 18:04:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '06CAF12EB2DDE6D621900F48EB80B6CC737D3B63' '--entitlements' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/entitlements~~~921QsO' '--preserve-metadata=identifier,flags,runtime' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex'
+2021-05-26 18:04:26 +0000  /var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex: signed bundle with Mach-O thin (arm64) [co.syntex-error.AfiqSouq]
+2021-05-26 18:04:26 +0000  /usr/bin/codesign exited with 0
+2021-05-26 18:04:26 +0000  Entitlements for <IDEDistributionItem: 0x7f9243236ee0; bundleID='co.syntex-error.AfiqSouq', path='<DVTFilePath:0x7f9236878910:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f92372536f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9243251cd0; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9237183840>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='{
+    "application-identifier" = "9RVFQ5D93P.co.syntex-error.AfiqSouq";
+    "aps-environment" = production;
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9RVFQ5D93P;
+    "get-task-allow" = 0;
+}', teamID='9RVFQ5D93P', identifier='co.syntex-error.AfiqSouq', executablePath='<DVTFilePath:0x7f92363d6b60:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Afiq Souq'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "9RVFQ5D93P.co.syntex-error.AfiqSouq";
+    "aps-environment" = production;
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9RVFQ5D93P;
+    "get-task-allow" = 0;
+}
+2021-05-26 18:04:26 +0000  Entitlements for <IDEDistributionItem: 0x7f9243236ee0; bundleID='co.syntex-error.AfiqSouq', path='<DVTFilePath:0x7f9236878910:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f92372536f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f923704cb90; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f923d517da0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='{
+    "application-identifier" = "9RVFQ5D93P.co.syntex-error.AfiqSouq";
+    "aps-environment" = production;
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9RVFQ5D93P;
+    "get-task-allow" = 0;
+}', teamID='9RVFQ5D93P', identifier='co.syntex-error.AfiqSouq', executablePath='<DVTFilePath:0x7f92363d6b60:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Afiq Souq'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "9RVFQ5D93P.co.syntex-error.AfiqSouq";
+    "aps-environment" = production;
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9RVFQ5D93P;
+    "get-task-allow" = 0;
+}
+2021-05-26 18:04:26 +0000  Writing entitlements for <IDEDistributionItem: 0x7f9243236ee0; bundleID='co.syntex-error.AfiqSouq', path='<DVTFilePath:0x7f9236878910:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f92372536f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f9233dfa500; name='Apple Distribution: Naima Akther Naima (9RVFQ5D93P)', hash='06CAF12EB2DDE6D621900F48EB80B6CC737D3B63', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f9249619710>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4",
+    "1.2.840.113635.100.6.1.7"
+), issueDate='2021-05-25 05:28:19 +0000''>', entitlements='{
+    "application-identifier" = "9RVFQ5D93P.co.syntex-error.AfiqSouq";
+    "aps-environment" = production;
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 9RVFQ5D93P;
+    "get-task-allow" = 0;
+}', teamID='9RVFQ5D93P', identifier='co.syntex-error.AfiqSouq', executablePath='<DVTFilePath:0x7f92363d6b60:'/Users/gamekiller/Library/Developer/Xcode/Archives/2021-05-26/Afiq Souq 5-26-21, 11.58 PM.xcarchive/Products/Applications/Afiq Souq.app/Afiq Souq'>', hardenedRuntime='0'>'> to: /var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/entitlements~~~Q5iYVV
+2021-05-26 18:04:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '06CAF12EB2DDE6D621900F48EB80B6CC737D3B63' '--entitlements' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/entitlements~~~Q5iYVV' '--preserve-metadata=identifier,flags,runtime' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app'
+2021-05-26 18:04:27 +0000  /var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app: signed app bundle with Mach-O thin (arm64) [co.syntex-error.AfiqSouq]
+2021-05-26 18:04:27 +0000  /usr/bin/codesign exited with 0
+2021-05-26 18:04:27 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-05-26 18:04:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-26 18:04:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-26 18:04:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-26 18:04:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-26 18:04:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-05-26 18:04:27 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-05-26 18:04:27 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root' '/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Packages/Afiq Souq.ipa'
+2021-05-26 18:04:27 +0000  >>> Copying /var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root 
+2021-05-26 18:04:27 +0000  copying file ./BCSymbolMaps/29A19618-2A92-3B3E-9A69-7D6FF39C6321.bcsymbolmap ... 
+2021-05-26 18:04:27 +0000  7035927 bytes for ./BCSymbolMaps/29A19618-2A92-3B3E-9A69-7D6FF39C6321.bcsymbolmap
+2021-05-26 18:04:27 +0000  copying file ./BCSymbolMaps/836BD8CA-DDA2-3ECD-B850-D6190DD4B7CE.bcsymbolmap ... 
+2021-05-26 18:04:27 +0000  4395 bytes for ./BCSymbolMaps/836BD8CA-DDA2-3ECD-B850-D6190DD4B7CE.bcsymbolmap
+2021-05-26 18:04:27 +0000  copying file ./Payload/Afiq Souq.app/_CodeSignature/CodeResources ... 
+2021-05-26 18:04:27 +0000  9285 bytes for ./Payload/Afiq Souq.app/_CodeSignature/CodeResources
+2021-05-26 18:04:27 +0000  copying file ./Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/_CodeSignature/CodeResources ... 
+2021-05-26 18:04:27 +0000  2040 bytes for ./Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/_CodeSignature/CodeResources
+2021-05-26 18:04:27 +0000  copying file ./Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension ... 
+2021-05-26 18:04:27 +0000  82224 bytes for ./Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/OneSignalNotificationServiceExtension
+2021-05-26 18:04:27 +0000  copying file ./Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/embedded.mobileprovision ... 
+2021-05-26 18:04:27 +0000  7509 bytes for ./Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/embedded.mobileprovision
+2021-05-26 18:04:27 +0000  copying file ./Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/Info.plist ... 
+2021-05-26 18:04:27 +0000  983 bytes for ./Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex/Info.plist
+2021-05-26 18:04:27 +0000  copying file ./Payload/Afiq Souq.app/PlugIns/OneSignal.framework/_CodeSignature/CodeResources ... 
+2021-05-26 18:04:27 +0000  2408 bytes for ./Payload/Afiq Souq.app/PlugIns/OneSignal.framework/_CodeSignature/CodeResources
+2021-05-26 18:04:27 +0000  copying file ./Payload/Afiq Souq.app/PlugIns/OneSignal.framework/OneSignal ... 
+2021-05-26 18:04:28 +0000  11789008 bytes for ./Payload/Afiq Souq.app/PlugIns/OneSignal.framework/OneSignal
+2021-05-26 18:04:28 +0000  copying file ./Payload/Afiq Souq.app/PlugIns/OneSignal.framework/Headers/OneSignal.h ... 
+2021-05-26 18:04:28 +0000  24994 bytes for ./Payload/Afiq Souq.app/PlugIns/OneSignal.framework/Headers/OneSignal.h
+2021-05-26 18:04:28 +0000  copying file ./Payload/Afiq Souq.app/PlugIns/OneSignal.framework/Modules/module.modulemap ... 
+2021-05-26 18:04:28 +0000  99 bytes for ./Payload/Afiq Souq.app/PlugIns/OneSignal.framework/Modules/module.modulemap
+2021-05-26 18:04:28 +0000  copying file ./Payload/Afiq Souq.app/PlugIns/OneSignal.framework/Info.plist ... 
+2021-05-26 18:04:28 +0000  716 bytes for ./Payload/Afiq Souq.app/PlugIns/OneSignal.framework/Info.plist
+2021-05-26 18:04:28 +0000  copying file ./Payload/Afiq Souq.app/AppIcon60x60@2x.png ... 
+2021-05-26 18:04:28 +0000  5705 bytes for ./Payload/Afiq Souq.app/AppIcon60x60@2x.png
+2021-05-26 18:04:28 +0000  copying file ./Payload/Afiq Souq.app/GoogleService-Info.plist ... 
+2021-05-26 18:04:28 +0000  824 bytes for ./Payload/Afiq Souq.app/GoogleService-Info.plist
+copying file ./Payload/Afiq Souq.app/sf_pro.ttf ... 
+2021-05-26 18:04:28 +0000  413924 bytes for ./Payload/Afiq Souq.app/sf_pro.ttf
+2021-05-26 18:04:28 +0000  copying file ./Payload/Afiq Souq.app/Afiq Souq ... 
+2021-05-26 18:04:30 +0000  53467152 bytes for ./Payload/Afiq Souq.app/Afiq Souq
+2021-05-26 18:04:30 +0000  copying file ./Payload/Afiq Souq.app/Main.storyboardc/gV1-vg-IeE-view-8fu-OT-KeM.nib ... 
+2021-05-26 18:04:30 +0000  2210 bytes for ./Payload/Afiq Souq.app/Main.storyboardc/gV1-vg-IeE-view-8fu-OT-KeM.nib
+2021-05-26 18:04:30 +0000  copying file ./Payload/Afiq Souq.app/Main.storyboardc/MasterViewController.nib ... 
+2021-05-26 18:04:30 +0000  1062 bytes for ./Payload/Afiq Souq.app/Main.storyboardc/MasterViewController.nib
+2021-05-26 18:04:30 +0000  copying file ./Payload/Afiq Souq.app/Main.storyboardc/Info.plist ... 
+2021-05-26 18:04:30 +0000  165 bytes for ./Payload/Afiq Souq.app/Main.storyboardc/Info.plist
+copying file ./Payload/Afiq Souq.app/Assets.car ... 
+2021-05-26 18:04:31 +0000  5360464 bytes for ./Payload/Afiq Souq.app/Assets.car
+2021-05-26 18:04:31 +0000  copying file ./Payload/Afiq Souq.app/Frameworks/OneSignal.framework/_CodeSignature/CodeResources ... 
+2021-05-26 18:04:31 +0000  2408 bytes for ./Payload/Afiq Souq.app/Frameworks/OneSignal.framework/_CodeSignature/CodeResources
+2021-05-26 18:04:31 +0000  copying file ./Payload/Afiq Souq.app/Frameworks/OneSignal.framework/OneSignal ... 
+2021-05-26 18:04:31 +0000  11789008 bytes for ./Payload/Afiq Souq.app/Frameworks/OneSignal.framework/OneSignal
+2021-05-26 18:04:31 +0000  copying file ./Payload/Afiq Souq.app/Frameworks/OneSignal.framework/Headers/OneSignal.h ... 
+2021-05-26 18:04:31 +0000  24994 bytes for ./Payload/Afiq Souq.app/Frameworks/OneSignal.framework/Headers/OneSignal.h
+2021-05-26 18:04:31 +0000  copying file ./Payload/Afiq Souq.app/Frameworks/OneSignal.framework/Modules/module.modulemap ... 
+2021-05-26 18:04:31 +0000  99 bytes for ./Payload/Afiq Souq.app/Frameworks/OneSignal.framework/Modules/module.modulemap
+copying file ./Payload/Afiq Souq.app/Frameworks/OneSignal.framework/Info.plist ... 
+2021-05-26 18:04:31 +0000  716 bytes for ./Payload/Afiq Souq.app/Frameworks/OneSignal.framework/Info.plist
+2021-05-26 18:04:31 +0000  copying file ./Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/_CodeSignature/CodeResources ... 
+2021-05-26 18:04:31 +0000  2084 bytes for ./Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/_CodeSignature/CodeResources
+2021-05-26 18:04:31 +0000  copying file ./Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/SSLCommerzSDK ... 
+2021-05-26 18:04:32 +0000  21186656 bytes for ./Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/SSLCommerzSDK
+2021-05-26 18:04:32 +0000  copying file ./Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/Assets.car ... 
+2021-05-26 18:04:32 +0000  2953864 bytes for ./Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/Assets.car
+2021-05-26 18:04:32 +0000  copying file ./Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/Info.plist ... 
+2021-05-26 18:04:32 +0000  718 bytes for ./Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework/Info.plist
+copying file ./Payload/Afiq Souq.app/embedded.mobileprovision ... 
+2021-05-26 18:04:32 +0000  7509 bytes for ./Payload/Afiq Souq.app/embedded.mobileprovision
+copying file ./Payload/Afiq Souq.app/Info.plist ... 
+2021-05-26 18:04:32 +0000  1706 bytes for ./Payload/Afiq Souq.app/Info.plist
+copying file ./Payload/Afiq Souq.app/PkgInfo ... 
+2021-05-26 18:04:32 +0000  8 bytes for ./Payload/Afiq Souq.app/PkgInfo
+copying file ./Payload/Afiq Souq.app/lato.ttf ... 
+2021-05-26 18:04:32 +0000  73316 bytes for ./Payload/Afiq Souq.app/lato.ttf
+2021-05-26 18:04:32 +0000  /usr/bin/ditto exited with 0
+2021-05-26 18:04:32 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-05-26 18:04:32 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-05-26 18:04:32 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-05-26 18:04:32 +0000  IDEDistributionItem init <DVTFilePath:0x7f923f33f840:'/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/PlugIns/OneSignal.framework'>
+2021-05-26 18:04:32 +0000  IDEDistributionItem init <DVTFilePath:0x7f923f37d660:'/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/PlugIns/OneSignalNotificationServiceExtension.appex'>
+2021-05-26 18:04:32 +0000  IDEDistributionItem init <DVTFilePath:0x7f923f36dd10:'/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Frameworks/OneSignal.framework'>
+2021-05-26 18:04:32 +0000  IDEDistributionItem init <DVTFilePath:0x7f923f33d4c0:'/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app/Frameworks/SSLCommerzSDK.framework'>
+2021-05-26 18:04:32 +0000  IDEDistributionItem init <DVTFilePath:0x7f92363d0fc0:'/var/folders/mb/33h6r0xn3z9b6knsg33s6g6c0000gn/T/XcodeDistPipeline.~~~I7hxFX/Root/Payload/Afiq Souq.app'>
+2021-05-26 18:04:32 +0000  Processing step: IDEDistributionCreateManifestStep
+2021-05-26 18:04:32 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

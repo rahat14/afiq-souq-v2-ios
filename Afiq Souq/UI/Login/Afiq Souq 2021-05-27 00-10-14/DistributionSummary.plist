@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Afiq Souq.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>06CAF12EB2DDE6D621900F48EB80B6CC737D3B63</string>
+				<key>dateExpires</key>
+				<string>5/25/22</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>armv7s</string>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>06CAF12EB2DDE6D621900F48EB80B6CC737D3B63</string>
+						<key>dateExpires</key>
+						<string>5/25/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>OneSignal.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9RVFQ5D93P</string>
+						<key>name</key>
+						<string>Naima Akther Naima</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>06CAF12EB2DDE6D621900F48EB80B6CC737D3B63</string>
+						<key>dateExpires</key>
+						<string>5/25/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SSLCommerzSDK.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9RVFQ5D93P</string>
+						<key>name</key>
+						<string>Naima Akther Naima</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>armv7s</string>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>06CAF12EB2DDE6D621900F48EB80B6CC737D3B63</string>
+						<key>dateExpires</key>
+						<string>5/25/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>OneSignal.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9RVFQ5D93P</string>
+						<key>name</key>
+						<string>Naima Akther Naima</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<true/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>06CAF12EB2DDE6D621900F48EB80B6CC737D3B63</string>
+						<key>dateExpires</key>
+						<string>5/25/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>9RVFQ5D93P.co.syntex-error.AfiqSouq</string>
+						<key>beta-reports-active</key>
+						<true/>
+						<key>com.apple.developer.team-identifier</key>
+						<string>9RVFQ5D93P</string>
+						<key>get-task-allow</key>
+						<false/>
+						<key>keychain-access-groups</key>
+						<array>
+							<string>9RVFQ5D93P.co.syntex-error.AfiqSouq</string>
+						</array>
+					</dict>
+					<key>name</key>
+					<string>OneSignalNotificationServiceExtension.appex</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>bd076673-e4e2-45f5-a138-b34db27c29ef</string>
+						<key>name</key>
+						<string>test shovo</string>
+					</dict>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9RVFQ5D93P</string>
+						<key>name</key>
+						<string>Naima Akther Naima</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>9RVFQ5D93P.co.syntex-error.AfiqSouq</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>9RVFQ5D93P</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Afiq Souq.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>bd076673-e4e2-45f5-a138-b34db27c29ef</string>
+				<key>name</key>
+				<string>test shovo</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>9RVFQ5D93P</string>
+				<key>name</key>
+				<string>Naima Akther Naima</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

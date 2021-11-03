@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>70049720208-ep9mjju2f5up13j3k2soql2f414srdre.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.70049720208-ep9mjju2f5up13j3k2soql2f414srdre</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>70049720208-j2l8l6e69a8mj04ajn3dq3o5ja4050c7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIXIvge-KWCg0y7L0uD3oDqJbDhzLf5Jk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>70049720208</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.syntex-error.AfiqSouq</string>
+	<key>PROJECT_ID</key>
+	<string>afiqsouq-35fd1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>afiqsouq-35fd1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:70049720208:ios:ad502656e2457e993db515</string>
+	<key>DATABASE_URL</key>
+	<string>https://afiqsouq-35fd1.firebaseio.com</string>
+</dict>
+</plist>
